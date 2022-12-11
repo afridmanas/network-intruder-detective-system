@@ -1,7 +1,7 @@
 # network-intruder-detective-system
 Network intrusion detection systems (NIDS) are set up at a planned point within the network to examine traffic from all devices on the network. It performs an observation of passing traffic on the entire subnet and matches the traffic that is passed on the subnets to the collection of known attacks.
 
-![1](https://user-images.githubusercontent.com/89599490/206913627-29cd148a-140f-47f7-93ac-35ea102b55f2.png)
+![1](https://user-images.githubusercontent.com/89599490/206913698-f457bf77-cf3d-41a6-9e3b-56b1d0e3d320.png)
 
 # Objectives and Specifications
 
